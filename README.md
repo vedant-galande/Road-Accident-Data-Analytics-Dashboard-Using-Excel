@@ -56,3 +56,7 @@ The dataset includes information on accident severity, vehicle types, road condi
 
 ## Conclusion
 This project showcases how Excel can be used to analyse large-scale road accident data, uncover key risk factors, and provide actionable insights with recommendations that could support safer roads and informed decision-making.  
+
+## Dashboard Snapshot
+(https://github.com/vedant-galande/Road-Accident-Data-Analytics-Dashboard-Using-Excel/blob/main/Dashboard_Snapshot.png)
+
