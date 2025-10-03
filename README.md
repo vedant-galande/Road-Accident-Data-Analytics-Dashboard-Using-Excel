@@ -4,6 +4,17 @@
 - [Dashboard File (Excel)](https://docs.google.com/spreadsheets/d/1MwGN-NZfCTjqn40oxNIrhuyPlYR8pEIV/edit?usp=drive_link&ouid=101544761981297572595&rtpof=true&sd=true)
 - [Dataset](https://drive.google.com/file/d/1zIBbazouVYZEUciMV9bEaScFebBvZNnl/view?usp=drive_link) 
 
+## 📑 Table of Contents
+- [Abstract](#abstract)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Tools & Features Used](#tools--features-used)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Dashboard Preview](#dashboard-preview)
+- [Dataset & Dashboard Access](#dataset--dashboard-access)
+
 
 ## Abstract
 An interactive Excel dashboard designed to analyse road accident data, uncover patterns, and generate actionable insights for road safety improvement.
