@@ -12,8 +12,7 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-- [Dashboard Preview](#dashboard-preview)
-- [Dataset & Dashboard Access](#dataset--dashboard-access)
+- [Dashboard Snapshot](#dashboard-snapshot)
 
 
 ## Abstract
