@@ -31,16 +31,16 @@ The dataset includes information on accident severity, vehicle types, road condi
 7. **Filter Panel:** Dynamic filters for year, accident date, weather conditions, and wind conditions, enabling users to customize views and perform targeted analysis.  
 
 ## Tools & Features Used
-- Pivot Tables – aggregating and summarizing accident data  
-- Pivot Charts – creating dynamic and interactive visuals  
-- Donut Charts – percentage and proportion comparisons  
-- Line Charts – month-wise time series trend analysis  
-- Bar Charts – category-wise comparisons (vehicles, roads, conditions)  
-- Slicers & Filters – enabling interactive dashboard navigation  
-- Shapes & Icons – enhancing visual storytelling and readability  
-- Conditional Formatting – highlighting key metrics and trends  
-- Data Cleaning & Preparation – ensuring structured and reliable data  
-- Dashboard Design Principles – focusing on clarity, KPIs, and minimal design  
+- **Pivot Tables** – aggregating and summarizing accident data  
+- **Pivot Charts** – creating dynamic and interactive visuals  
+- **Donut Charts** – percentage and proportion comparisons  
+- **Line Charts** – month-wise time series trend analysis  
+- **Bar Charts** – category-wise comparisons (vehicles, roads, conditions)  
+- **Slicers & Filters** – enabling interactive dashboard navigation  
+- **Shapes & Icons** – enhancing visual storytelling and readability  
+- **Conditional Formatting** – highlighting key metrics and trends  
+- **Data Cleaning & Preparation** – ensuring structured and reliable data  
+- **Dashboard Design Principles** – focusing on clarity, KPIs, and minimal design  
 
 ## Key Insights
 1. **Vehicle Type Impact**  
